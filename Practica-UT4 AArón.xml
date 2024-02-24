@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jugadores>
+	<nombre>
+		Rigodolfo Pepinio
+	</nombre>
+	<equipo>
+		Real Madrid
+	</equipo>
+	<entrenador>
+		Daniel Gil
+	</entrenador>
+	<nombre>
+		Oliver Atom
+	</nombre>
+	<equipo>
+		Barcelona
+	</equipo>
+	<entrenador>
+		Roberto Sediño
+	</entrenador>
+	<nombre>
+		Ronaldo
+	</nombre>
+	<equipo>
+		Milán De Munich
+	</equipo>
+	<entrenador>
+		Queque
+	</entrenador>
+	<nombre>
+		Iniesta
+	</nombre>
+	<equipo>
+		Barcelon
+	</equipo>
+	<entrenador>
+		Pepe Guardiola
+	</entrenador>
+	<nombre>
+		Puyol
+	</nombre>
+	<equipo>
+		Real Madrid
+	</equipo>
+	<entrenador>
+		Zidadine Zidane
+	</entrenador>
+</jugadores>

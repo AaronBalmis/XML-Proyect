@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<album>
+	<documentacion>
+        <artista>
+            ABC
+        </artista>
+        <titulo>
+            The Collection
+        </titulo>
+        <sello>
+            KARRUSSELL INTERNATIONAL
+        </sello>
+        <referencia>
+            551 831-2
+        </referencia>
+        <anyo>
+            1996
+        </anyo>
+        <pais>
+            GERMANY
+        </pais>
+        <formato>
+            CD - COMPILATION
+        </formato>
+        <genero>
+            FUNK / SOUL, ELECTRONIC
+        </genero>
+        <esilo> 
+            Funk Disco, Synth Pop
+        </esilo>    
+        <observaciones>
+            Licensed from Mercury Records Ltd (London)
+        </observaciones>
+	</documentacion>
+	<cd1>
+        
+	</cd1>
+</album>
